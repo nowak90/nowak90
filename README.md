@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nowak90
+- 👋 Hi, I’m @nowak90 (Marcin)
 - 👀 I’m interested in C#, Unity
 - 🌱 I’m currently learning C#
 
