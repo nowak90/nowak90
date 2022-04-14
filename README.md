@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nowak90 (Marcin),
-- 👀 I’m interested in Java, C#, Unity,
+- 👀 I’m interested in C#, Unity,
 - 🌱 I’m currently learning C#,
+- 🏫 Curently attending the C#/.NET bootcamp at infoShare Academy,
 - ⚽ My goal is to become Junior in 2022.
 
 <!---
