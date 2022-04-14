@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, Unity,
 - 🌱 I’m currently learning C#,
 - 🏫 Curently attending the C#/.NET bootcamp at infoShare Academy,
-- ⚽ My goal is to become Junior in 2022.
+- ⚽ My goal is to become a Junior Dev in 2022.
 
 <!---
 nowak90/nowak90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
